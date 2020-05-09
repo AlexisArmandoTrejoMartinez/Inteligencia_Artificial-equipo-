@@ -2,25 +2,9 @@
 # -*- coding: utf-8 -*-
 #
 #  nreinas.py
-#  
-#  Copyright 2020 alexis <alexis@alexis-HP-Pavilion-Notebook>
-#  
-#  This program is free software; you can redistribute it and/or modify
-#  it under the terms of the GNU General Public License as published by
-#  the Free Software Foundation; either version 2 of the License, or
-#  (at your option) any later version.
-#  
-#  This program is distributed in the hope that it will be useful,
-#  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#  GNU General Public License for more details.
-#  
-#  You should have received a copy of the GNU General Public License
-#  along with this program; if not, write to the Free Software
-#  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
-#  MA 02110-1301, USA.
-#  
-#  
+#  Integrantes:
+#  Hidalgo Hernandez Juan Daniel
+#  Trejo Martinez Alexis Armando
 
 def entradasegura(matriz,fila,columna):
 	N = len(matriz)
@@ -102,9 +86,9 @@ def escribeCeros(N):
 		Lista.append(0)
 	return Lista
 	
-N = int(input("Esbribe el tamaño de la matriz"))
-f = int(input("Cordenada de la fila de la reina"))
-c = int(input("Cordenada de la columna de la reina"))
+N = int(input("Escribe el tamaño de la matriz "))
+f = int(input("Cordenada de la fila de la reina "))
+c = int(input("Cordenada de la columna de la reina "))
 
 matriz = []
 for i in range(N):
