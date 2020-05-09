@@ -9,7 +9,7 @@ en caso contrario retorna falso
 
 def primeroProfundidad(Carpeta,Archivo):
 	pass
-def primeroAnchura(Carpeta,Archivo):
+def primeroAnchura(Carpeta,Archivo)P:
 	pass
 """
 # Integrantes:
