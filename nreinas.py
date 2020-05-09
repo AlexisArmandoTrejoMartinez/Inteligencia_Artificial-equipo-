@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 #  nreinas.py
-#  Integrante:
+#  Integrantes:
 # Hidalgo Hernandez Juan Daniel
 # Trejo Martinez Alexis Armando
 
