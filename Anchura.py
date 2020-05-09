@@ -12,6 +12,9 @@ def primeroProfundidad(Carpeta,Archivo):
 def primeroAnchura(Carpeta,Archivo):
 	pass
 """
+# Integrantes:
+# Hidalgo Hernandez Juan Daniel
+# Trejo Martinez Alexis Armando
 
 import json
 with open('base(2).json') as file:
