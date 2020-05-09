@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*-
 #
 #  nreinas.py
-#  Integrantes:
-#  Hidalgo Hernandez Juan Daniel
-#  Trejo Martinez Alexis Armando
+#  Integrante:
+# Hidalgo Hernandez Juan Daniel
+# Trejo Martinez Alexis Armando
+
 
 def entradasegura(matriz,fila,columna):
 	N = len(matriz)
